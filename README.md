@@ -1,5 +1,5 @@
 # rainbow-colours
-unicorn
+unicorn and popcorn
 colours of the rainbow
 yellow
 red
@@ -10,3 +10,4 @@ orange
 violet
 unicorn
 indigo
+popcorn
