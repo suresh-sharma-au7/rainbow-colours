@@ -4,7 +4,7 @@ yellow
 red
 blue
 green
-
+pink
 orange
 violet
 
